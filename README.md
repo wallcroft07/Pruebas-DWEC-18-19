@@ -20,3 +20,12 @@ Para la clase de Desarrollo Web de Entorno Cliente del curso 2018-19
 
 Para hacer un commit necesitas hacer un cambio en el readme de lo que has hecho. 
 
+
+
+# Prueba de Readme  Dillinger
+
+Para incluir  imagenes con enclaces: 
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
