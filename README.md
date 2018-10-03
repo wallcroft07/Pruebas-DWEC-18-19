@@ -2,7 +2,13 @@
 Este es nuestro primer repositorio en GitHub
 
 
+Tres estados del proyecto:
 
+1º Commit: una propuesta de subida.
+2º push: Cogemos todo lo que hay en staged y lo sube a un commit
+3º pull: Coger el commit y traerlo.
+5º staged: Es un paso de seguridad cuando haces muchos commit.
+4º clone: 
 
 Para la clase de Desarrollo Web de Entorno Cliente del curso 2018-19
 
