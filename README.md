@@ -1,5 +1,6 @@
 # Pruebas-DWEC-18-19
-Este es nuestro primer repositorio en GitHub
+
+Commit de Eclipse 
 
 
 Tres estados del proyecto:
