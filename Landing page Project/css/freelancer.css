@@ -49,7 +49,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #ff0000;
+ 
 }
 
 hr.star-dark {
@@ -124,7 +124,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #ff0000;
+  color:#880000;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -132,7 +132,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #ff0000;
+  color: #880000;
 }
 
 #mainNav .navbar-toggler {
@@ -216,8 +216,9 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: #880000;
 }
+
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -317,7 +318,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #880000;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -336,11 +337,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #80ff00;
+  color: #5bb700;
 }
 
 a:focus, a:hover, a:active {
-  color: #ff0000;
+  color:#880000;
 }
 
 .btn {
@@ -348,7 +349,8 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #ff0000 !important;
+  background-color: #880000 !important;
+  
 }
 
 .bg-secondary {
@@ -356,7 +358,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #ff0000 !important;
+  color: #880000 !important;
 }
 
 .text-secondary {
@@ -364,13 +366,13 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #ff0000;
-  border-color: #18BC9C;
+  background-color: #880000;
+  border-color: #880000;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #ff0000;
-  border-color: #128f76;
+  background-color: #880000;
+  border-color:#880000;
 }
 
 .btn-secondary {
@@ -381,4 +383,12 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+.portada {
+	background-image: url("https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-1.jpg");
+}
+.imagenes{
+	width:500px;
+    height:250px;
 }
