@@ -7,13 +7,16 @@ Commit de GitHub
 
 Tres estados del proyecto:
 
-1º Commit: una propuesta de subida.
-2º push: Cogemos todo lo que hay en staged y lo sube a un commit
-3º pull: Coger el commit y traerlo.
-5º staged: Es un paso de seguridad cuando haces muchos commit.
-4º clone: 
-
+* 1º Importar (Clone URI) 
+Improtar Proyecto de GitHub
+File>Import>pegar URI proyecto
+* 2º Cuando hemos hecho una modificacion tiene un punto 
+Hacer un commit, agregamos un comentario al commit 
+( aqui puede dar problemas si hay conflictos ) 
 Para la clase de Desarrollo Web de Entorno Cliente del curso 2018-19
+* 3º Para hacer pull
+Modificamos en GitHub y lo traemos a eclipse 
+Carpeta> Team> Pull
 
   Para editar Readme  Markdown https://dillinger.io/
 
