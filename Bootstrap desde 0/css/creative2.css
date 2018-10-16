@@ -1,0 +1,15 @@
+body {
+  font-family: latin-ext;
+}
+
+* {
+	
+}
+
+
+
+
+p .destacado { color: red; }
+
+p#aviso { color: blue; }
+
